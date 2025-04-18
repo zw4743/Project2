@@ -1,0 +1,2 @@
+models/*.zip filter=lfs diff=lfs merge=lfs -text
+modules/*.zip filter=lfs diff=lfs merge=lfs -text

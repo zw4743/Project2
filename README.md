@@ -8,7 +8,7 @@ The file in each folder:
 &nbsp;&nbsp;&nbsp;&nbsp;**models**:  The models with different 23 epochs  
 &nbsp;&nbsp;&nbsp;&nbsp;**pictures**: Store the pictures like loss, accuracy, precision, f1, recall, parameters, model architecture and so on
 &nbsp;&nbsp;&nbsp;&nbsp;**reproduction**:  A pdf file showing how to reproduce     
-&nbsp;&nbsp;&nbsp;&nbsp;**result**:  The output .csv file using the model to predict the test dataset.  
+&nbsp;&nbsp;&nbsp;&nbsp;**result**:  The output .csv file using the model to predict the test dataset and the related metrics like accuracy and loss
 &nbsp;&nbsp;&nbsp;&nbsp;**src**: The notebook in our project2    
 
 **Environemnt**: Pytorch with default version in Google Colab    

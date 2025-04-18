@@ -15,5 +15,5 @@ The file in each folder:
 
 
 **Tips**:  
-&nbsp;&nbsp;1. Before running the code, you should download the model in "Best" folder or training another model using trainning function.  
-&nbsp;&nbsp;2. Before predicting the test dataset, you should download ".pkl" file in the "data" folder.  
+&nbsp;&nbsp;1. If you want to reproduce the result, please see the reproduction folder.  
+
